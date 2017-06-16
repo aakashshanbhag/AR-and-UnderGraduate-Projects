@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/ARnold_Final_Scene.unity
+  isLoaded: 1
+  isActive: 1
